@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# GPT-3 Landing Page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementing the GPT-3 Landing Page design by AR Shakir
+The design can be found on his site [here](https://www.arshakir.com/project/freebie-gpt-3-landing-page)
 
 ## Available Scripts
 
